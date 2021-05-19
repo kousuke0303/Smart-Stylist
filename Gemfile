@@ -10,7 +10,7 @@ gem 'bootstrap-will_paginate'
 gem 'mini_magick',  '~> 4.8'
 gem 'payjp'
 gem "aws-sdk-s3", require: false
-gem 'puma',         '~> 3.7'
+gem 'puma',         '~> 4.3'
 gem 'sass-rails',   '~> 5.0'
 gem 'uglifier',     '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
